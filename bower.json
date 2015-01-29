@@ -1,8 +1,21 @@
 {
-  "name": "foundation-compass-app",
-  "version": "0.0.1",
-  "private": "true",
+  "name": "javascript-foundation",
+  "version": "0.1.0",
   "dependencies": {
-    "foundation": "zurb/bower-foundation"
-  }
+    "foundation": "zurb/bower-foundation",
+    "font-awesome": "~4.3.0"
+  },
+  "homepage": "https://github.com/k0reanach0/javascript-foundation",
+  "authors": [
+    "Allen Tomlinson <k0reanach0@gmail.com>"
+  ],
+  "description": "JavaScript Foundation for All Apps",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
